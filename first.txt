@@ -1,0 +1,35 @@
+
+--> functionality for blogging websites
+
+	- Basic Functionality :
+		- login & signup 
+		- create blog
+        - update blog 
+        -delete blog 
+		
+	
+	-  Additional functionality:
+		- search bar
+		- likes, dislike, comments options
+		- login through google, facebook 
+		- share blogs on various social media platform
+		- add image, audio & video content in blogs
+		
+		
+		
+		
+  Functionality for Messaging app
+ 
+	- Basic Functionality
+		- assign unique_id for identification purpose
+		- send message 
+		- join new user functionality
+		- receive message
+	
+	
+	- Additional/ Optional functionality
+		- send message to particular user(one-to-one comm.)
+		- broadcast message (one-to-many comm.)
+		- shows times of send-receive message
+		- shows message when connect or disconnect user
+		
